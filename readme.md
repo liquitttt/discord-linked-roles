@@ -7,6 +7,7 @@ Brief description of what the project does and its purpose.
 - [Project Title](#project-title)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
+- [DB Setup](#db-setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -30,7 +31,7 @@ Brief description of what the project does and its purpose.
 
 ## DB Setup
 
-1. Install sequelize-cli:
+1. Install `sequelize-cli`:
     ```sh
     npm install sequelize-cli
     ```
