@@ -16,12 +16,12 @@ Brief description of what the project does and its purpose.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/liquitttt/linked-roles.git
+    git clone https://github.com/liquitttt/discord-linked-roles.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd linked-roles
+    cd discord-linked-roles
     ```
 
 3. Install dependencies:
